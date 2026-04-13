@@ -4,14 +4,19 @@
 This project focuses on analyzing Netflix movies and shows using Python to uncover insights such as content trends, popular genres, release patterns, and ratings distribution. The analysis helps understand how Netflix content has evolved over time.
 
 📊 Objectives
-Analyze the distribution of movies and TV shows
-Identify the most common genres on Netflix
-Explore trends in content release over the years
-Perform data cleaning and preprocessing
+- Analyze the distribution of movies and TV shows
+- Identify the most common genres on Netflix
+- Explore trends in content release over the years
+- Perform data cleaning and preprocessing
 
 🛠️ Technologies Used
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+
+
+
+
