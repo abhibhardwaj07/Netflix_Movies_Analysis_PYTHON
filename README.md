@@ -18,7 +18,8 @@ This project focuses on analyzing Netflix movies and shows using Python to uncov
 - Seaborn
 
 ## Practice Question
-What is the most frequent genre of Movies released on Netflix?
-Which has highest votes in vote average column?
-Which movie got the highest popularity and find it's genre?
-Which movie got the lowest popularity and find it'genre?
+1. What is the most frequent genre of Movies released on Netflix?
+2. Which has highest votes in vote average column?
+3. Which movie got the highest popularity and find it's genre?
+4. Which movie got the lowest popularity and find it'genre?
+5. Which year has the most filmed movies?
