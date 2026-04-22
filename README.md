@@ -20,5 +20,5 @@ This project focuses on analyzing Netflix movies and shows using Python to uncov
 ## Practice Question
 What is the most frequent genre of Movies released on Netflix?
 Which has highest votes in vote average column?
-
+Which movie got the highest popularity and find it's genre?
 
